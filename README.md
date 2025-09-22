@@ -9,8 +9,8 @@ I originally created this plate to install a **HDPLEX 250W GaN Power Supply** in
 This is my **first Fusion 360 project and GitHub repository**, so please forgive any rough edges! I hope it’s useful, and feel free to experiment and modify.
 
 <p align="center">
-  <img src="Snapshots/Screenshot 2025-09-22 170847.png" alt="Alt text" height="300">
-  <img src="Snapshots/Screenshot 2025-09-22 170814.png" alt="Alt text" height="300">
+  <img src="Snapshots/Screenshot 2025-09-22 170847.png" alt="Alt text" height="200">
+  <img src="Snapshots/Screenshot 2025-09-22 170814.png" alt="Alt text" height="200">
 </p>
 
 ## Included Files
